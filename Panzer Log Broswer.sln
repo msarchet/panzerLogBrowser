@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panzer Log Broswer", "Panzer Log Broswer.csproj", "{53DF2A91-8F6D-4089-8F8E-D54E1728167D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53DF2A91-8F6D-4089-8F8E-D54E1728167D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DF2A91-8F6D-4089-8F8E-D54E1728167D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DF2A91-8F6D-4089-8F8E-D54E1728167D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DF2A91-8F6D-4089-8F8E-D54E1728167D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F027B13C-3BDA-4A2F-B504-AA70BB106557}
+	EndGlobalSection
+EndGlobal
